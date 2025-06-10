@@ -1,0 +1,5 @@
+<Directory /var/www/html>
+<LimitExcept GET POST>
+Deny from all
+</LimitExcept>
+</Directory>

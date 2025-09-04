@@ -1,4 +1,0 @@
-
-<LimitExcept GET POST>
-Deny from all
-</Limit>
